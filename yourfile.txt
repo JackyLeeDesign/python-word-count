@@ -1,0 +1,7 @@
+在這個數位時代，學習編程語言變得越來越重要。Python 是一種非常受歡迎的編程語言，它的語法簡單易懂，適合初學者學習。
+
+In the digital age, learning to code has become increasingly important. Python is a very popular programming language. Its syntax is simple and easy to understand, making it suitable for beginners.
+
+無論你是想做網頁開發、數據分析還是機器學習，Python 都是一個很好的選擇。希望你在學習 Python 的旅程中能夠獲得滿足感和成就感。
+
+Whether you want to do web development, data analysis, or machine learning, Python is a great choice. I hope you find satisfaction and a sense of accomplishment in your journey to learn Python.
